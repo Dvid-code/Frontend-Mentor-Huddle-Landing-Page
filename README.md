@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./https://github.com/Dvid-code/Frontend-Mentor-Huddle-Landing-Page/blob/main/screenshot/landing-page.png)
+<img src="https://github.com/Dvid-code/Frontend-Mentor-Huddle-Landing-Page/blob/main/screenshot/landing-page.png">
 
 ### Built with
 
