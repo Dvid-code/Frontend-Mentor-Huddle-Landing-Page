@@ -6,11 +6,12 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 - [Overview]
   - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
   - [Built with](#built-with)
 
 ## Overview
 
-<img src="https://github.com/Dvid-code/Frontend-Mentor-Huddle-Landing-Page/blob/main/screenshot/landing-page.png">
+<img src="https://github.com/Dvid-code/Frontend-Mentor-Huddle-Landing-Page/blob/main/design/desktop-preview.jpg">
 
 ### The challenge
 
@@ -18,6 +19,10 @@ Users should be able to:
 
 - View the optimal layout for the page depending on their device's screen size
 - See hover states for all interactive elements on the page
+
+### Screenshot
+
+![](./https://github.com/Dvid-code/Frontend-Mentor-Huddle-Landing-Page/blob/main/screenshot/landing-page.png)
 
 ### Built with
 
