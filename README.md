@@ -10,6 +10,8 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ## Overview
 
+<img src="images/screenshot/landing-page">
+
 ### The challenge
 
 Users should be able to:
