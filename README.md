@@ -10,7 +10,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ## Overview
 
-<img src="images/screenshot/landing-page">
+<img src="images/screenshot/landing-page.png">
 
 ### The challenge
 
