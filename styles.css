@@ -6,6 +6,7 @@ body {
     display: grid;
     place-content: center;
     background: linear-gradient(0deg, hsla(257, 40%, 49%, .5), hsla(257, 40%, 49%, .5)), url("images/bg-desktop.svg") no-repeat;
+    background-color: hsl(257, 40%, 49%);
     background-size: cover;
 }
 
@@ -64,22 +65,23 @@ button:hover {
     margin-top: 150px;
     display: flex;
     justify-content: flex-end;
-    gap: 15px;
+    gap: 1rem;
 }
 
-.facebook {
-    width: 40px;
-    height: 40px;
-}
+.fa-brands {
+    border-radius: 50%;
+    border: 1px solid white;
+    padding: 10px;
+    font-size: 1.2rem;
+    color: white;
+    width: 1.3rem;
+    border-radius: 50%;
+    text-align: center;
+  }
 
-.twitter {
-    width: 40px;
-    height: 40px;
-}
-
-.instagram {
-    width: 40px;
-    height: 40px;
+.fa-brands:hover {
+    border: 1px solid hsl(300, 69%, 71%);
+    color: hsl(300, 69%, 71%);
 }
 
 a, button {
@@ -90,6 +92,7 @@ a, button {
     body{
         background: linear-gradient(0deg, hsla(257, 40%, 49%, .5), hsla(257, 40%, 49%, .5)), url("images/bg-mobile.svg") no-repeat;
         background-size: contain;
+        background-color: hsl(257, 40%, 49%);
         text-align: center;
     }
 
